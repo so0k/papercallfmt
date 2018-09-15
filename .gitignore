@@ -1,0 +1,5 @@
+vendor
+bin
+download.json
+output/program/*.md
+output/speakers/*.md
