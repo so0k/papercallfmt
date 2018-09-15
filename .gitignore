@@ -3,3 +3,4 @@ bin
 download.json
 output/program/*.md
 output/speakers/*.md
+output/avatars/*.jpg
