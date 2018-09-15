@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Matt Ray",
+    "email": "hide@me.com",
+    "avatar": "https://secure.gravatar.com/avatar/1341777c782c711c19675c80bacae6a5?s=500",
+    "location": "Sydney, Australia",
+    "bio": "Matt Ray is Chef's Sydney-based Manager and Solutions Architect for APJ. He has been active in the open source community for over two decades and has worked in a wide variety of startups and enterprises. He podcasts at SoftwareDefinedTalk.com, blogs at LeastResistance.net and is @mattray on Twitter, IRC, GitHub and too many Slacks.",
+    "talk_format": "Talk (~30-45 minutes)",
+    "twitter": "mattray",
+    "url": "http://leastresistance.net",
+    "organization": "Chef Software",
+    "shirt_size": "Men's L",
+    "title": "10 Years of DevOps - How Did We Get Here and Where Are We Going?",
+    "abstract": "DevOps is nearly 10 years old as a term, yet it continues to evolve in response to the state of the software world. While DevOps has no formal definition, we will explore how it has changed over time. New concepts like SRE and serverless will continue to evolve the conversations around DevOps.",
+    "description": "DevOps is nearly 10 years old as a term, but it continues to evolve in response to the state of the software world. DevOps is the recognition of the way that developers, operations, and the business deliver features into production. There is no formal methodology, only sets of practice and principles of how we predictably ensure reliable delivery of business outcomes through IT.\r\n\r\nLet’s take a look back at the changing landscape and see where DevOps is going:\r\n\r\n    Has DevOps gone mainstream?\r\n    Is DevOps culture or tools?\r\n    DevOps vs. SRE, what’s the difference?\r\n    What does Serverless mean to DevOps?\r\n",
+    "notes": "I gave an opening keynote at DevOps Days Jakarta on the topic, this will be an expansion of that talk with new content.",
+    "audience_level": "All",
+    "tags": [
+      "devops",
+      "history"
+    ],
+    "rating": 97,
+    "state": "accepted",
+    "confirmed": false,
+    "created_at": "2018-08-17T00:13:02.330Z",
+    "additional_info": null
+  }
+]
